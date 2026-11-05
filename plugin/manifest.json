@@ -76,7 +76,7 @@
         "type": "string",
         "title": "Stats URL (leave blank to use Home Screens' own stats)",
         "ui:widget": "text",
-        "ui:placeholder": "http://127.0.0.1:3000/api/system/stats"
+        "ui:placeholder": "http://192.168.68.145:3000/api/system/stats"
       }
     }
   },
@@ -85,5 +85,5 @@
     { "key": "throttled", "label": "Pi is throttled or under-volted", "sampleValues": ["true", "false"] }
   ],
   "permissions": ["network", "events", "localNetwork"],
-  "allowedDomains": ["127.0.0.1", "localhost"]
+  "allowedDomains": ["192.168.68.145", "localhost"]
 }
