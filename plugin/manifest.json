@@ -3,7 +3,7 @@
   "name": "Pi Monitor",
   "version": "1.1.0",
   "description": "Shows the health of the Raspberry Pi running your display: CPU temperature, CPU usage, memory, disk, load, uptime and power/throttling warnings.",
-  "author": "Your Name",
+  "author": "EE",
   "license": "MIT",
   "minAppVersion": "1.14.0",
   "moduleType": "pi-monitor",
