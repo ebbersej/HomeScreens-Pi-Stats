@@ -8,7 +8,7 @@
 
   var PLUGIN_ID = 'pi-monitor';
   // The hub's own stats feed (the same data as Settings > Status).
-  var DEFAULT_URL = 'http://127.0.0.1:3000/api/system/stats';
+  var DEFAULT_URL = 'http://192.168.68.145:3000/api/system/stats';
 
   var GREEN = '#4ade80';
   var AMBER = '#fbbf24';
